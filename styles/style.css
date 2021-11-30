@@ -40,3 +40,44 @@ p {
 	left: 103px;
 	bottom: 0;
 }
+.wrapper2 {
+	position: relative;
+	background-color: #fff;
+	max-height: 285px;
+	height: 100%;
+}
+.triangle2 {
+	position: absolute;
+	width: 0;
+	border-left: 0 solid transparent;
+	border-right: 102px solid transparent;
+	border-top: 100px solid #C80000;
+}
+.triangle3 {
+	position: absolute;
+	width: 0;
+	border-left: 102px solid transparent;
+	border-right: 0 solid transparent;
+	border-top: 100px solid #C80000;
+	right: 0;
+}
+.img-box {
+	position: absolute;
+	top: 30px;
+	right: 135px;
+	max-width: 50px;
+	width: 100%;
+}
+img {
+	width: 90px;
+}
+.text-box {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	font-size: 45px;
+	text-align: center;
+}
+h1 {
+	font-weight: 100;
+}
