@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Marlboro';
+    src: url('../fonts/Marlboro.woff2') format('woff2'),
+        url('../fonts/Marlboro.woff') format('woff'),
+        url('../fonts/Marlboro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
